@@ -2,8 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: jayde-quiz-backstage
-  description: Find where your juice comes from
+  description: medical questionaire
 spec:
   type: website
   lifecycle: production
-  owner: tracking-team
+  owner: developherj
